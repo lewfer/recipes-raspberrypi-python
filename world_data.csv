@@ -1,0 +1,141 @@
+country,happiness,income,lifeexp
+Afghanistan,L,1750,57.9
+Albania,L,11000,77.6
+Argentina,H,19100,76.5
+Armenia,L,8180,75.4
+Australia,H,43800,82.6
+Austria,H,44100,81.4
+Azerbaijan,M,16700,71.8
+Bahrain,H,44500,76.8
+Bangladesh,L,3130,72.4
+Belarus,M,17200,73.3
+Belgium,H,41700,80.9
+Benin,L,1990,63.9
+Bhutan,M,7740,73.8
+Bolivia,M,6530,73
+Bosnia and Herzegovina,M,10900,77.4
+Botswana,L,15400,64.6
+Brazil,H,14700,75.2
+Bulgaria,M,17000,75
+Burkina Faso,L,1550,60.3
+Cambodia,L,3290,68.3
+Cameroon,M,2990,59.7
+Canada,H,43000,81.7
+Chad,L,2050,59.2
+Chile,H,22500,80.1
+China,M,13600,76.3
+Colombia,H,13000,78
+"Congo, Rep.",L,5540,62.6
+"Congo, Dem. Rep.",L,750,60.9
+Costa Rica,H,14900,80.9
+Croatia,M,20600,77.3
+Cyprus,M,30400,80.5
+Czech Republic,H,30400,78.9
+Denmark,H,45500,80.7
+Dominican Republic,M,13400,75.5
+Ecuador,M,10800,77.9
+Egypt,L,10100,71.9
+El Salvador,H,7850,75
+Estonia,M,27300,77.2
+Ethiopia,L,1530,65.2
+Finland,H,39000,81.5
+France,H,37800,82.2
+Gabon,L,16800,66
+Georgia,L,9030,73.7
+Germany,H,43800,80.8
+Ghana,L,3930,65.4
+Greece,M,24100,81
+Guatemala,H,7290,72.5
+Guinea,L,1180,60
+Haiti,L,1650,63.9
+Honduras,M,4310,72.5
+Hungary,M,24800,75.7
+Iceland,H,42700,82.2
+India,L,5750,68.2
+Indonesia,M,10400,71.4
+Iran,L,16000,75.8
+Iraq,L,14900,67.6
+Ireland,H,60900,81.1
+Israel,H,32000,82
+Italy,M,34200,82.3
+Cote d'Ivoire,L,3250,59.2
+Japan,M,37800,83.8
+Jordan,M,8490,76.8
+Kazakhstan,M,23500,71.6
+Kenya,L,2840,66.3
+Kuwait,H,69300,79.8
+Kyrgyz Republic,M,3240,71.1
+Latvia,M,23100,74.8
+Lebanon,M,13100,80.1
+Liberia,L,785,63.8
+Libya,M,13500,74.2
+Lithuania,M,27000,74.9
+Luxembourg,H,95300,82
+"Macedonia, FYR",M,12800,74.6
+Madagascar,L,1380,62.3
+Malawi,L,1090,59.4
+Malaysia,H,25000,75.4
+Mali,L,1920,61.4
+Malta,H,34400,81.3
+Mauritania,L,3600,70
+Mexico,H,16700,76.2
+Moldova,H,4750,72.1
+Mongolia,M,11400,68.2
+Montenegro,M,15300,76.9
+Morocco,M,7290,74.8
+Mozambique,L,1120,59
+Myanmar,L,5070,69.5
+Nepal,M,2300,69.7
+Netherlands,H,46400,81.6
+New Zealand,H,34600,81.5
+Nicaragua,M,4960,78
+Niger,L,897,61.2
+Nigeria,M,5670,64
+Norway,H,63700,82.1
+Pakistan,M,4700,67.3
+Palestine,L,2650,71.8
+Panama,H,20700,78.7
+Paraguay,M,8640,74.4
+Peru,M,11800,79.5
+Philippines,M,6880,70.1
+Poland,H,25300,77.7
+Portugal,M,26500,80.8
+Qatar,H,120000,80.5
+Romania,M,20500,75.1
+Russia,M,24100,70.8
+Rwanda,L,1720,67.3
+Saudi Arabia,H,50700,76.8
+Senegal,L,2300,65.9
+Serbia,M,13300,75.7
+Sierra Leone,M,1320,57.6
+Singapore,H,80900,83.6
+Slovak Republic,H,28300,76.8
+Slovenia,M,29100,80.7
+Somalia,M,623,57.3
+South Africa,M,12400,61.8
+South Korea,M,34200,80.9
+South Sudan,L,1810,58.9
+Spain,H,32200,82.9
+Sri Lanka,L,11100,77.2
+Sweden,H,45500,82.1
+Switzerland,H,56500,83.1
+Syria,L,3500,68.4
+Tajikistan,M,2640,71.6
+Tanzania,L,2490,63.5
+Thailand,H,15200,77.6
+Togo,L,1350,62.1
+Tunisia,M,10800,77.4
+Turkey,M,23400,79
+Turkmenistan,M,15000,69.9
+Uganda,L,1690,61.6
+Ukraine,L,7470,71.9
+United Arab Emirates,H,66000,76.5
+United Kingdom,H,38500,80.8
+United States,H,52800,78.8
+Uruguay,H,19800,77.1
+Uzbekistan,M,5700,70
+Venezuela,M,15600,75.5
+Vietnam,M,5670,74.3
+Yemen,L,2640,67.2
+Zambia,M,3630,58.1
+Zimbabwe,L,1890,58.3
